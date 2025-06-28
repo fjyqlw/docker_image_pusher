@@ -1,5 +1,2 @@
 1panel/maxkb:latest
-cym1102/nginxwebui:latest
-cym1102/nginxwebui:3.8.3
-cym1102/nginxwebui:4.3.0
 cym1102/nginxwebui:4.3.1
