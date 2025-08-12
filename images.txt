@@ -2,3 +2,4 @@
 cym1102/nginxwebui:4.3.1
 authelia/authelia:latest
 alist666/alist:v3.25.0
+alist666/alist:v3.24.1
