@@ -1,5 +1,5 @@
 1panel/maxkb:latest
 cym1102/nginxwebui:4.3.1
 authelia/authelia:latest
-xhofe/alist:v3.25.0
 xhofe/alist:v3.24.1
+xhofe/alist:v3.25.0
