@@ -2,3 +2,4 @@
 cym1102/nginxwebui:4.3.1
 authelia/authelia:latest
 xhofe/alist:v3.40.0
+ghcr.io/fish2018/pansou-web:latest
